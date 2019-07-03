@@ -6,4 +6,4 @@ if a in s1:
 elif a in s:
   print("Consonant")
 else:
-  print("invaild")
+  print("invalid")
